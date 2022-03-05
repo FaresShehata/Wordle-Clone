@@ -1,2 +1,2 @@
-# Wordle-Clone
-A clone of Wordle implemented in Python
+# WordleClone
+A terminal based clone of Wordle implemented in Python
